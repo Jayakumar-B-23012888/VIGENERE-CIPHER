@@ -129,4 +129,4 @@ void decipher() {
 ![image](https://github.com/user-attachments/assets/311f6103-3595-4e88-81a6-dafa39678b00)
 
 ## RESULT:
-  Thus the C program for Vignere Cipher is implemented successfully.
+  Thus the C program for Vigenere Cipher is implemented successfully.
